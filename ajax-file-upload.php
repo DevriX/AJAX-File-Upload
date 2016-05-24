@@ -446,7 +446,7 @@ function ajax_file_upload_init_function() {
 		}
 	}
 
-	if ( function_exists('ajax_file_upload_settings') ) {
+	if ( ! function_exists('ajax_file_upload_settings') ) {
 		function ajax_file_upload_settings() {
 			$class = new AJAX_file_upload();
 			return $class->settings;
