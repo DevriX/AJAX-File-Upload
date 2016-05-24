@@ -4,13 +4,11 @@
 
 	<p class="about-text">Thank you for using AJAX File Upload to quickly process your uploads on the go!</p>
 	
-	<div style="display: block; background: #fff; text-align: center; padding: 1em 0;"> <img src="http://i.imgur.com/qVPdWkb.png" alt="preview" style=" display: table; margin: 0 auto;"> <h2 style="font-style: italic;display: inline-block;">A small preview</h2><em style=" color: #C1C1C1; margin-left: 3px; font-size: 90%;"> WpChats 3.0 profile edit</em> </div>
+	<div style="display: block; background: #fff; text-align: center; padding: 1em 0;"> <img src="http://i.imgur.com/qVPdWkb.png" alt="preview" style=" display: table; margin: 0 auto;"> <em style=" color: #C1C1C1; margin-left: 3px; font-size: 90%;">A small preview WpChats 3.0 profile edit</em> </div>
 
 	<p>This plugin will help you add file upload feature to your site, set maximum upload size, allowed file extensions, and much more through a simple shortcode or a custom function.</p>
 
 	<p>Totally AJAX, your uploads will be processed faster and an elegant way. All you need to do is to add the shortcode to your content, or call the plugin's custom function whithin your code and that's it.</p>
-
-	<p><a href="options-general.php?page=ajax-file-upload" class="button button-primary">Go to settings</a> or carry on with the useful documentation</p>
 
 	<h2 id="afu-shortcode">The Shortcode</h2>
 
@@ -178,8 +176,6 @@ echo ajax_file_upload( $args );
 	<p>Thanks for reading about this plugin. This plugin is totally free and open-source, that means you can contribute to it to add many more cool features and improve it better. Interested? hit me up at samelh.com/contact/. AFU is available on the free open source software repository <a href="https://github.com/elhardoum/AJAX-File-Upload" target="_blank">Github</a>.</p>
 
 	<p>If you like it by far, please take some time to leave us a ☆☆☆☆☆ rating on WordPress, a star ☆ on the Github repository, and thank you for your time!</p>
-
-	<p><a href="options-general.php?page=ajax-file-upload" class="button button-primary">Go to settings</a></p>
 
 	<p style="text-align:center">
 		<a href="https://github.com/elhardoum/AJAX-File-Upload" target="_blank">Star on Github</a>
