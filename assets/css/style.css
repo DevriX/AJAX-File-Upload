@@ -1,0 +1,31 @@
+/**
+  * Did you know? you can modify this by copying the entire plugin folder (ajax-upload-file/)
+  * into your child theme, and from there you can edit any file except the core files ( for 
+  * core files, any changes made in your child theme won't be applicable )
+  *
+  * @since 0.1
+  * @author Samuel Elh <samelh.com/contact/>
+  */
+
+.afu-process-file {}
+.afu-process-file label {
+    border: 1px solid #ddd;
+    padding: 4px 11px;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+}
+.afu-process-file label.select {}
+.afu-process-file label.upload {
+    background: #F6FFEB;
+}
+.afu-process-file label.remove {
+    background: #FFF8F0;
+}
+.afu-process-file label[disabled] {
+    opacity: 0.4;
+    -webkit-opacity: 0.4;
+    -moz-opacity: 0.4;
+    -ms-opacity: 0.4;
+    cursor: no-drop;
+}

@@ -1,0 +1,5 @@
+
+.afuico-upload-cloud:before { content: '\e800'; } /* '' */
+.afuico-ok:before { content: '\e801'; } /* '' */
+.afuico-cancel:before { content: '\e802'; } /* '' */
+.afuico-spin6:before { content: '\e803'; } /* '' */
