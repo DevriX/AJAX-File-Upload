@@ -1,0 +1,14 @@
+# Code Owners
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# PHP files
+*.php @lgadzhev@devrix.com
+composer.json @lgadzhev@devrix.com
+composer.lock @lgadzhev@devrix.com
+
+# Frontend files (CSS, Sass, HTML, JS)
+*.{css,scss,sass,html,js} @tmanoilov@devrix.com
+package.json @tmanoilov@devrix.com
+package-lock.json @tmanoilov@devrix.com
+
+# Full docks can be found at GH's official docs https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
